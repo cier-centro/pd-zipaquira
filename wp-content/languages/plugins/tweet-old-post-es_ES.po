@@ -1,0 +1,847 @@
+# Translation of Plugins - Revive Old Post (Former Tweet Old Post) - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Revive Old Post (Former Tweet Old Post) - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-05-08 16:58:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Revive Old Post (Former Tweet Old Post) - Development (trunk)\n"
+
+#: inc/config.php:169
+msgid "rviv.ly"
+msgstr "rviv.ly"
+
+#: inc/core.php:3116
+msgid "The remote check can not access your website. You need to whitelist this ip 107.170.26.57 in order for the schedule to work properly"
+msgstr "La comprobación remota no puede acceder a tu web. Tienes que poner en lista blanca la ip 107.170.26.57 para que funcione correctamente la programación"
+
+#. Author of the plugin/theme
+msgid "revive.social"
+msgstr "revive.social"
+
+#. #-#-#-#-#  tmp-tweet-old-post.pot (Revive Old Post (Former Tweet Old Post)
+#. 7.4.8)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  tmp-tweet-old-post.pot (Revive Old Post (Former Tweet Old Post)
+#. 7.4.8)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://revive.social/"
+msgstr "https://revive.social/"
+
+#: inc/view.php:249
+msgid "<a target=\"_blank\" href=\"http://docs.revive.social/article/406-how-to-create-a-linkedin-app-for-revive-old-post\" >Click here</a> for a video showing these instructions"
+msgstr "<a target=\"_blank\" href=\"http://docs.revive.social/article/406-how-to-create-a-linkedin-app-for-revive-old-post\" >Haz clic aquí</a> para ver un vídeo con estas instrucciones"
+
+#: inc/view.php:247
+msgid "A new page will open up asking you to grant access by logging in, enter your login credentials then click <strong>Allow access</strong>. Your application should now be connected and ready to share"
+msgstr "Se abrirá una nueva página preguntándote si permites acceso conectándose, introduce tus credenciales de acceso y luego haz clic en <strong>Permitir acceso</strong>. Tu aplicación debería ahora estar conectada y lista para compartir."
+
+#: inc/view.php:246
+msgid "Go back to <strong>Authentication</strong> page, copy the <strong>Client ID</strong> and <strong>Client Secret</strong> and paste them in the fields on the right of this page then click <strong>Authorize APP</strong>"
+msgstr "Vuelve a la página de <strong>Identificación</strong>, copia las claves <strong>Client ID</strong> y <strong>Client Secret</strong> y pégalas en los campos a la derecha de esta página, y luego haz clic en <strong>Autorizar aplicación</strong>"
+
+#: inc/view.php:245
+msgid "To the top left of the LinkedIn page select <strong>Settings</strong>, under <strong>Application Status</strong> set it to <strong>Live</strong> and click <strong>Update</strong> to save your changes."
+msgstr "En la parte superior izquierda de la página de LinkedIn elige <strong>Ajustes</strong>, ve a <strong>Estado de la aplicación</strong> y configúralo a <strong>Activa</strong> y haz clic en <strong>Actualizar</strong> para guardar los cambios."
+
+#: inc/view.php:244
+msgid "Copy/Paste this url : <code>%s</code> into OAuth 2.0 Redirect URLs field, click <strong>Add</strong> and then <strong>Update</strong>"
+msgstr "Copia/pega esta url : <code>%s</code> en el campo de URL de redirección de OAuth 2.0, haz clic en <strong>Añadir</strong> y luego en <strong>Actualizar</strong>"
+
+#: inc/view.php:243
+msgid "Set the <strong>Default Application Permissions</strong> to r_basicprofile and w_share."
+msgstr "Establece los <strong>permisos por defecto de la aplicación</strong> a r_basicprofile y w_share."
+
+#: inc/view.php:242
+msgid "Enter the required details for your application, be sure to add this current website's URL inside the <strong>Website URL</strong> field, click <strong>Submit</strong> when done."
+msgstr "Introduce los detalles obligatorios de tu aplicación, asegúrate de añadir la URL de tu web actual dentro del campo <strong>URL de la web</strong>, haz clic en <strong>Enviar</strong> cuando termines."
+
+#: inc/view.php:195
+msgid "<a target=\"_blank\" href=\"http://docs.revive.social/article/349-how-to-create-a-facebook-application-for-revive-old-post\">Click here</a> for a video showing these instructions"
+msgstr "<a target=\"_blank\" href=\"http://docs.revive.social/article/349-how-to-create-a-facebook-application-for-revive-old-post\">Haz clic aquí</a> para ver un vídeo que muestra estas instrucciones"
+
+#: inc/view.php:193
+msgid "Now everything is almost done, click on <strong>Authorize App</strong> button to the right of this screen, a new page will open asking you to continue as yourself, click <strong>Okay</strong>, the next page will ask you who you want the posts to be shared with, select <strong>Public</strong> if you want everyone to see the shared posts."
+msgstr "Ahora ya está casi toto, haz lic en el botón <strong>Autorizar aplicación</strong> a la derecha de esta pantalla, se abrirá una nueva página pidiéndote que sigas por tu cuenta, haz clic en <strong>De acuerdo</strong>, la siguiente página te preguntará con quién quieres compartir las entradas, elige <strong>Público</strong> si quieres que cualquiera pueda ver las entradas compartidas."
+
+#: inc/view.php:192
+msgid "Go to <strong>App Review</strong> and turn the switch asking to make your app public to \"Yes\" and click continue"
+msgstr "Ve a <strong>Revisión de la aplicación</strong> y pon en \"Sí\" el botón que te pregunta si quieres hacer que tu app sea pública y haz clic para continuar"
+
+#: inc/view.php:191
+msgid "In the <strong>App Domains</strong> area paste the following URL: <code>%s</code> then scroll down and click <strong>Save changes</strong>"
+msgstr "En el área <strong>Dominios de la aplicación</strong> copia la siguiente URL: <code>%s</code> luego navega para hacer clic en <strong>Guardar cambios</strong>"
+
+#: inc/view.php:190
+msgid "When the new page loads click <strong>Skip Quick Start</strong> to the top right\" then go to <strong>Settings</strong>"
+msgstr "Cuando cargue la nueva página haz clic en <strong>Saltar inicio rápido</strong> para en la parte superior derecha\" luego ve a <strong>Ajustes</strong>"
+
+#: inc/view.php:189
+msgid "Select <strong>Website</strong> from the options, when the page loads scroll down and copy the following URL into the <strong>Site URL</strong> area: <code>%s</code> then click <strong>Next</strong>"
+msgstr "Elige <strong>Web</strong> entre las opciones, cuando cargue la página navega hacia abajo y copia la siguiente URL en el área <strong>URL del sitio</strong>: <code>%s</code> luego haz clic en <strong>Siguiente</strong>"
+
+#: inc/view.php:188
+msgid "Go back to the app dashboard and next to <strong>Get Started with the Facebook SDK</strong> click <strong>Choose a Platform</strong>."
+msgstr "Vuelve al escritorio de la aplicación y luego ve a <strong>Primeros pasos con el SDK de Facebook</strong> haz clic en <strong>Elige una plataforma</strong>."
+
+#: inc/view.php:187
+msgid "After you prove you are human and the page loads go to <strong>Dashboard</strong>, copy your <strong>App ID</strong> and <strong>App Secret</strong> in the fields on the right."
+msgstr "Una vez pruebes que eres humano y cargue la página ve a <strong>Escritorio</strong>, copia tu <strong>ID de la aplicación</strong> y <strong>Clave secreta de la aplicación (App Secret)</strong> de los campos a la derecha."
+
+#: inc/view.php:186
+msgid "Enter a <strong>Display Name</strong>, <strong>Namespace</strong>, <strong>Contact Email</strong>, <strong>Category</strong> and click on Create App ID."
+msgstr "Introduce un <strong>Nombre visible</strong>, <strong>Namespace</strong>, <strong>Correo electrónico de contacto</strong>, <strong>Categoría</strong> y haz clic en Crear ID de la aplicación."
+
+#: inc/view.php:184 inc/view.php:241
+msgid "Go to"
+msgstr "Ir a"
+
+#: inc/view-categories-list.php:16
+msgid "Categories"
+msgstr "Categorías"
+
+#: inc/view-categories-list.php:14
+msgid "Include"
+msgstr "Incluir"
+
+#: inc/view-categories-list.php:13
+msgid "Exclude"
+msgstr "Excluir"
+
+#: inc/config.php:395
+msgid "Exclude/Include Specific Categories"
+msgstr "Excluye/incluye categorías específicas"
+
+#: inc/config.php:231
+msgid "Ow.ly API Key"
+msgstr "Ow.ly API Key"
+
+#: inc/config.php:221
+msgid "Google API Key"
+msgstr "Google API Key"
+
+#: inc/config.php:211
+msgid "Shortest API Key"
+msgstr "Shortest API Key"
+
+#: inc/config.php:175
+msgid "ow.ly"
+msgstr "ow.ly"
+
+#: inc/config.php:174
+msgid "goo.gl"
+msgstr "goo.gl"
+
+#: inc/config.php:173
+msgid "shorte.st"
+msgstr "shorte.st"
+
+#: inc/view.php:61
+msgid "Manage queue"
+msgstr "Gestionar cola de espera"
+
+#: inc/scrap-advancedscheduling.php:102
+msgid "Delete"
+msgstr "Borrar"
+
+#: inc/scrap-advancedscheduling.php:101
+msgid "Edit"
+msgstr "Editar"
+
+#: inc/scrap-advancedscheduling.php:98
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: inc/scrap-advancedscheduling.php:39
+msgid "Please start the plugin to view the future shares"
+msgstr "Por favor, inicia el plugin para ver los compartidos futuros"
+
+#: inc/view-advancedscheduling.php:41
+msgid "Just remove the post from schedule now"
+msgstr "Simplemente quita ahora la publicación de la programación"
+
+#: inc/view-advancedscheduling.php:34
+msgid "Exclude this post from publishing on all networks"
+msgstr "Excluye esta entrada de su publicación en todas las redes"
+
+#: inc/view-advancedscheduling.php:27
+msgid "Exclude this post from publishing only on this network"
+msgstr "Excluye esta entrada de su publicación solo en esta red"
+
+#: inc/view-advancedscheduling.php:22
+msgid "How should the DELETE button work for you henceforth?"
+msgstr "¿Cómo debería funcionar el botón BORRAR a partir de ahora?"
+
+#: inc/view-advancedscheduling.php:15
+msgid "All"
+msgstr "Todo"
+
+#. Description of the plugin/theme
+msgid "Wordpress plugin that helps you to keeps your old posts alive by sharing them and driving more traffic to them from twitter/facebook or linkedin. It also helps you to promote your content. You can set time and no of posts to share to drive more traffic.For questions, comments, or feature requests, <a href=\"http://revive.social/support/?utm_source=plugindesc&utm_medium=announce&utm_campaign=top\">contact </a> us!"
+msgstr "Plugin para WordPress que te ayuda a mantener vigentes tus publicaciones antiguas compartiéndolas y atrayendo más tráfico desde twitter / facebook o linkedin. También te ayuda a promocionar tu contenido. Puedes establecer el intervalo de tiempo y el número de publicaciones a compartir para atraer más tráfico. Para preguntas, comentarios o petición de funcionalidades, <a href=\"http://revive.social/support/?utm_source=plugindesc&utm_medium=announce&utm_campaign=top\">¡contacta con nosotros!</a> "
+
+#. Plugin Name of the plugin/theme
+msgid "Revive Old Post (Former Tweet Old Post)"
+msgstr "Revive Old Post (anteriormente Tweet Old Post)"
+
+#: inc/view.php:365 inc/view.php:366
+msgid "Tumblr url Blog"
+msgstr "URL del blog Tumblr"
+
+#: inc/view.php:334
+msgid "Fill URL of your Tumblr Blog.  "
+msgstr "Complete la URL de tu blog Tumblr."
+
+#: inc/view.php:332
+msgid "Click 'Register application'”' button. Fill 'Application Name', 'Application Website', all other fields (just enter your website URL to the 'Default callback URL') and click Register'."
+msgstr "Haz clic en el botón \"Registrar aplicación\", completa \"Nombre de la aplicación\", \"Application Website\" y el resto de campos (simplemente introduce la URL de tu web en \"Default callback URL\" y haz clic en \"Registrar\"."
+
+#: inc/view.php:331
+msgid "If you already made an application you will see it’s info here, otherwise click “Register application” button."
+msgstr "Si ya has creado una aplicación verás su información aquí, en caso contrario haz clic en el botón \"Registrar aplicación\""
+
+#: inc/view.php:326
+msgid "Add Your Thumblr Account Following The Instructions On The Left"
+msgstr "Añade tu cuenta de Tumblr siguiendo las instrucciones de la izquierda"
+
+#: inc/view.php:309 inc/view.php:310 inc/view.php:354 inc/view.php:355
+msgid "Consumer Secret"
+msgstr "Consumer Secret"
+
+#: inc/view.php:297 inc/view.php:298 inc/view.php:342 inc/view.php:343
+msgid "Consumer Key"
+msgstr "Consumer Key"
+
+#: inc/view.php:289 inc/view.php:333
+msgid "Copy/Paste the Consumer Key and Consumer Secret in the fields from the right.  "
+msgstr "Copia y pega las Consumer Key y Consumer Secret en los campos de la derecha."
+
+#: inc/view.php:288
+msgid "Fill 'Application Name', click 'Save'"
+msgstr "Completa \"Nombre de la aplicación\" y haz clic en \"Guardar\""
+
+#: inc/view.php:287
+msgid "If you already made an application you will see it’s info here, otherwise click “Create app” button."
+msgstr "Si ya has creado una aplicación podrás aquí la información, en caso contrario haz clic en el botón \"Crear aplicación\""
+
+#: inc/view.php:282
+msgid "Add Your XING Account Following The Instructions On The Left"
+msgstr "Añade tu cuenta XING siguiendo las instrucciones de la izquierda"
+
+#: inc/view.php:265
+msgid "Secret Key that you get once you create an app"
+msgstr "Secret Key que obtienes después de haber creado una aplicación"
+
+#: inc/view.php:264
+msgid "Linkedin Secret Key"
+msgstr "Secret Key de Linkedin"
+
+#: inc/view.php:255
+msgid "API Key that you get once you create an app"
+msgstr "API Key que obtienes después de haber creado una aplicación"
+
+#: inc/view.php:254
+msgid "Linkedin API Key"
+msgstr "API Key de Linkedin"
+
+#: inc/view.php:237
+msgid "Add Your Linkedin Account Following The Instructions On The Left"
+msgstr "Añade tu cuenta de Linkedin siguiendo las instrucciones de la parte izquierda"
+
+#: inc/view.php:231
+msgid "Close"
+msgstr "Cerrar"
+
+#: inc/view.php:229
+msgid "You need to have the latest version of Revive Old Post Pro in order to use this feature. Please update it or download for your account here <a href=\"http://revive.social/your-purchases/\" target=\"_blank\">http://revive.social/your-purchases/</a>"
+msgstr "Para poder utilizar esta función necesitas disponer de la última versión de Revive Old Post. Por favor, actualízala o descárgala desde tu cuenta aquí <a href=\"http://revive.social/your-purchases/\" target=\"_blank\">http://revive.social/your-purchases/</a>"
+
+#: inc/view.php:221 inc/view.php:274 inc/view.php:319 inc/view.php:375
+msgid "Authorize App"
+msgstr "Autorizar aplicación"
+
+#: inc/view.php:213
+msgid "Secret from your app created on facebook website. "
+msgstr "Secret de la aplicación que has creado en el web de Facebook."
+
+#: inc/view.php:212
+msgid "Facebook App Secret"
+msgstr "App Secret de Facebook"
+
+#: inc/view.php:201
+msgid "ID from your app created on facebook website."
+msgstr "ID de tu aplicación creada en el web de Facebook."
+
+#: inc/view.php:200
+msgid "Facebook App ID"
+msgstr "ID de la aplicación de Facebook"
+
+#: inc/view.php:291 inc/view.php:336
+msgid "Now everything is done, click on <strong>Authorize App</strong> button."
+msgstr "Ya has finalizado, haz clic en el botón <strong>Autorizar aplicación</strong>"
+
+#: inc/view.php:185
+msgid "Click on <strong>Create New App</strong> from the top right corner."
+msgstr "Haz clic en <strong>Crear nueva aplicación</strong> en la esquina superior derecha."
+
+#: inc/view.php:286 inc/view.php:330
+msgid "Go on"
+msgstr "Continuar"
+
+#: inc/view.php:180
+msgid "Add Your Facebook Account Following The Instructions On The Left"
+msgstr "Añade tu cuenta de Facebook siguiendo las instrucciones de la parte izquierda"
+
+#: inc/view.php:172
+msgid "Choose a Profile or Page"
+msgstr "Elige un perfil o una página"
+
+#: inc/view.php:166
+msgid "Share now"
+msgstr "Compartir ahora"
+
+#: inc/view.php:165 inc/view.php:174 inc/view.php:223 inc/view.php:276
+#: inc/view.php:321 inc/view.php:377
+msgid "Close preview"
+msgstr "Cerrar vista previa"
+
+#: inc/view.php:155 inc/view.php:157 inc/view.php:159 inc/view.php:161
+#: inc/view.php:163
+msgid "Sample Post Preview"
+msgstr "Ver una publicación de ejemplo"
+
+#: inc/view.php:147
+msgid "Upgrade Tweet Old Post for only $9.99 - Upgrade To Pro Now!"
+msgstr "Actualiza Tweet Old Post por solo 9,99 dólares - ¡Actualiza a la versión Pro ahora!"
+
+#: inc/view.php:145
+msgid "We will send you a ping each 15 minutes in order to assure that posts will be sent to social networks on time.   "
+msgstr "Te enviaremos un ping cada 15 minutos con el fin de asegurar que las publicaciones se enviarán a tiempo a las redes sociales."
+
+#: inc/view.php:145
+msgid "Remote check"
+msgstr "Comprobación remota"
+
+#: inc/view.php:144
+msgid "As a beta user you will have access to the latest stable releases before going to production"
+msgstr "Como usuario beta tendrás acceso a las últimas versiones estables antes de su salida a producción"
+
+#: inc/view.php:144
+msgid "Beta user"
+msgstr "Usuario Beta"
+
+#: inc/view.php:141
+msgid "in the next"
+msgstr "en los siguientes"
+
+#: inc/view.php:141
+msgid "Revive Old Post will post on"
+msgstr "Revive Old Post publicará el"
+
+#: inc/view.php:134
+msgid "Now is: "
+msgstr "Ahora:"
+
+#: inc/view.php:130
+msgid "We are not affiliated or partner with Twitter/Facebook/Linkedin in any way."
+msgstr "No estamos afiliados o asociados con Twitter / Facebook / Linkedin de ninguna manera."
+
+#: inc/view.php:128
+msgid "See Sample Post"
+msgstr "Ver una publicación de muestra"
+
+#: inc/view.php:125
+msgid "Stop Sharing"
+msgstr "Dejar de compartir"
+
+#: inc/view.php:122
+msgid "Start Sharing"
+msgstr "Empezar a compartir"
+
+#: inc/scrap-advancedscheduling.php:97 inc/view.php:119
+msgid "Save"
+msgstr "Guardar"
+
+#: inc/view.php:118
+msgid "Reset"
+msgstr "Restablecer"
+
+#: inc/view.php:109
+msgid "Clear Log"
+msgstr "Limpiar registro"
+
+#: inc/view.php:63
+msgid "Log"
+msgstr "Registro"
+
+#: inc/view.php:58
+msgid "Post Format"
+msgstr "Formato de publicaciones"
+
+#: inc/view.php:57
+msgid "General settings"
+msgstr "Ajustes generales"
+
+#: inc/view.php:56
+msgid "Accounts"
+msgstr "Cuentas"
+
+#: inc/view.php:44
+msgid "Here you can see errors and notifications if they exist."
+msgstr "Aquí puedes ver los errores y avisos, si los hubiera."
+
+#: inc/view.php:38
+msgid "Revive Old Post is not set to post!"
+msgstr "¡Revive Old Post no está configurado para publicar!"
+
+#: inc/view-postschedule.php:77
+msgid "Add posting time"
+msgstr "Añadir tiempo de publicación"
+
+#: inc/view-postschedule.php:72
+msgid " times every"
+msgstr "veces cada"
+
+#: inc/view-postschedule.php:72
+msgid "Posts this "
+msgstr "Publicar esto"
+
+#: inc/view-postschedule.php:70
+msgid "Sunday"
+msgstr "Domingo"
+
+#: inc/view-postschedule.php:69
+msgid "Saturday"
+msgstr "Sábado"
+
+#: inc/view-postschedule.php:68
+msgid "Friday"
+msgstr "Viernes"
+
+#: inc/view-postschedule.php:67
+msgid "Thursday"
+msgstr "Jueves"
+
+#: inc/view-postschedule.php:66
+msgid "Wednesday"
+msgstr "Miércoles"
+
+#: inc/view-postschedule.php:65
+msgid "Tuesday"
+msgstr "Martes"
+
+#: inc/view-postschedule.php:64
+msgid "Monday"
+msgstr "Lunes"
+
+#: inc/view-postschedule.php:58 inc/view.php:59
+msgid "Custom Schedule"
+msgstr "Programación personalizada"
+
+#: inc/view-postschedule.php:31
+msgid "Interval"
+msgstr "Intervalo"
+
+#: inc/view-postschedule.php:26
+msgid "Each x hours"
+msgstr "Cada x horas"
+
+#: inc/view-postformat.php:27
+msgid "Max"
+msgstr "Máx."
+
+#: inc/view-exclude.php:15 inc/view.php:27
+msgid "Leave A Review"
+msgstr "Deja una reseña"
+
+#: inc/view-exclude.php:14 inc/view.php:26
+msgid "Show your love"
+msgstr "Muestra tu amor"
+
+#: inc/view-exclude.php:11 inc/view.php:22
+msgid "by"
+msgstr "por"
+
+#: inc/view-accounts.php:31
+msgid "Add Account"
+msgstr "Añadir Cuenta"
+
+#: inc/exclude-posts.php:343
+msgid "You do not have enough permission to set the option. Please contact your admin."
+msgstr "No tienes los permisos necesarios para modificar esta opción.. Por favor, ponte en contacto con tu administrador."
+
+#: inc/exclude-posts.php:336
+msgid "No Posts found. Review your search or filter criteria/term."
+msgstr "No se han encontrado publicaciones. Revisa las palabras o criterios de filtro de la búsqueda."
+
+#: inc/exclude-posts.php:242 inc/exclude-posts.php:318
+msgid "Displaying %s&#8211;%s of %s"
+msgstr "Mostrando %s&#8211;%s de %s"
+
+#: inc/exclude-posts.php:234
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: inc/exclude-posts.php:233
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: inc/exclude-posts.php:80
+msgid "Posts excluded successfully."
+msgstr "Publicaciones excluidas con éxito."
+
+#: inc/exclude-posts.php:12
+msgid "Tweet Old Post Options Updated."
+msgstr "Actualizadas las opciones de Tweet Old Post."
+
+#: inc/core.php:3216
+msgid "System Info"
+msgstr "Información del sistema"
+
+#: inc/core.php:3214
+msgid "Exclude Posts"
+msgstr "Excluir publicaciones"
+
+#: inc/core.php:1962
+msgid "Could not connect to Facebook! You need to add the App Secret"
+msgstr "No se pudo conectar con Facebook. Es necesario incluir el App Secret"
+
+#: inc/core.php:1959
+msgid "Could not connect to Facebook! You need to add the App ID"
+msgstr "No se pudo conectar con Facebook. Es necesario incluir el ID de la aplicación"
+
+#: inc/core.php:1952
+msgid "Could not connect to Twitter!"
+msgstr "¡Ha fallado la conexión a Twitter!"
+
+#: inc/core.php:1918
+msgid "You need to have cURL library enabled in order to use our plugin! Please check it with your hosting company to enable this."
+msgstr "¡Tienes que tener habilitada la biblioteca cURL para poder utilizar el plugin! Por favor, contacta con su empresa de alojamiento web para habilitarlo."
+
+#: inc/core.php:1566
+msgid "Custom Tweet User Interval"
+msgstr "Intervalo de usuario de tuit personalizado"
+
+#: inc/core.php:1507
+msgid "Maximum age of post to be eligible for sharing must be greater than Minimum age of post to be eligible for sharing. Please check the value to be a number greater  or equal than 0 "
+msgstr "La antigüedad máxima de la publicación para que puedas elegirla para compartirla debe ser mayor que la antigüedad mínima de la publicación elegible para compartirla. Por favor, comprueba que el valor sea un número mayor que o igual a 0"
+
+#: inc/core.php:1502
+msgid "Incorect value for Minimum age of post to be eligible for sharing. Please check the value to be a number greater  or equal than 0 "
+msgstr "Valor incorrecto de la antigüedad mínima de la publicación elegible para compartir. Por favor, verifica que el valor sea un número mayor que o igual a 0"
+
+#: inc/core.php:1495
+msgid "Incorect value for Maximum age of post to be eligible for sharing. Please check the value to be a number greater or equal than 0 "
+msgstr "Valor incorrecto de la antigüedad máxima de la publicación elegible para compartir. Por favor, verifica que el valor sea un número mayor que o igual a 0"
+
+#: inc/core.php:1362
+msgid "Download System Info File"
+msgstr "Descargar el archivo de información del sistema"
+
+#: inc/core.php:1141
+msgid "To copy the system info, click below then press Ctrl + C (PC) or Cmd + C (Mac)."
+msgstr "Para copiar la información del sistema haz clic a continuación y luego pulsa Ctrl + C (PC) o Cmd + C (Mac)."
+
+#: inc/core.php:1139
+msgid "System Information"
+msgstr "Información del sistema"
+
+#: inc/core.php:1065
+msgid "Your host does not support CURL"
+msgstr "Tu servidor no es compatible con CURL"
+
+#: inc/core.php:1033
+msgid "Error for facebook share on post "
+msgstr "Error al compartir una publicación en facebook"
+
+#: inc/core.php:1025
+msgid "Post %s has been successfully sent to facebook"
+msgstr "La entrada %s se ha enviado con éxito a facebook"
+
+#: inc/core.php:1020
+msgid "Error for posting on facebook for:"
+msgstr "Error al compartir en facebook para:"
+
+#: inc/core.php:538
+msgid "No posts to share"
+msgstr "No existen publicaciones para compartir"
+
+#: inc/core.php:477
+msgid "Invalid next schedule: "
+msgstr "Siguiente programación no válida:"
+
+#: inc/core.php:445 inc/scrap-advancedscheduling.php:46
+msgid "There is no suitable post to tweet make sure you excluded correct categories and selected the right dates."
+msgstr "No existe una publicación apropiada para enviar un tuit, asegúrate de haber excluido las categorías correctas y seleccionado las fechas adecuadas."
+
+#: inc/core.php:96
+msgid "You have no account set to post !"
+msgstr "¡No tienes una cuenta configurada para publicar!"
+
+#: inc/config.php:408
+msgid "Select which image size you would like to use <br/> when posting on social networks"
+msgstr "Elige qué tamaño de imagen quieres utilizar <br/> al publiclar en redes sociales"
+
+#: inc/config.php:404
+msgid "Select image size "
+msgstr "Elige el tamaño de la imagen"
+
+#: inc/config.php:399
+msgid "Select which categories do you want to exclude/include to share from? Blank - None"
+msgstr "Elige qué categorías deseas excluir/incluir a la hora de compartir. En blanco - ninguna"
+
+#: inc/config.php:389
+msgid "Enabling Campaign Tracking you would be able to see how much traffic Revive Old Post generated."
+msgstr "Habilitando el seguimiento de campaña podrás ver cuánto tráfico ha generado Revive Old Post."
+
+#: inc/config.php:385
+msgid "Google Analytics Campaign Tracking"
+msgstr "Seguimiento de campaña de Google Analytics"
+
+#: inc/config.php:377
+msgid "What type of items do you want to share?"
+msgstr "¿Qué tipo de elementos quieres compartir?"
+
+#: inc/config.php:373
+msgid "Post Type"
+msgstr "Tipo de publicación"
+
+#: inc/config.php:364
+msgid "By default once a post is shared it will not be shared again until you stop/start the plugin"
+msgstr "De forma predeterminada, una vez se haya compartido una publicación, no se volverá a compartir hasta que se detenga y se inicie el plugin"
+
+#: inc/config.php:360
+msgid "Share old posts more than once"
+msgstr "Compartir publicaciones antiguas más de una vez"
+
+#: inc/config.php:351
+msgid "Number of posts to share each time"
+msgstr "Número de publicaciones a compartir cada vez"
+
+#: inc/config.php:347
+msgid "Number of Posts to share"
+msgstr "Número de publicaciones a compartir"
+
+#: inc/config.php:337
+msgid "Maximum age of post to be eligible for sharing"
+msgstr "Antigüedad máxima de la publicación para poder ser seleccionada para ser compartida"
+
+#: inc/config.php:331 inc/config.php:341
+msgid "Day/Days - 0 for Disabled"
+msgstr "Día / días - 0 para deshabilitar"
+
+#: inc/config.php:327
+msgid "Minimum age of post to be eligible for sharing"
+msgstr "Antigüedad mínima de la publicación para poder ser seleccionada para ser compartida"
+
+#: inc/config.php:320 inc/view-postschedule.php:32 inc/view-postschedule.php:46
+msgid "Minimum time between shares (Hour/Hours), 0.4 can be used also."
+msgstr "Tiempo mínimo entre comparticiones (hora / horas), También se puede usar 0.4."
+
+#: inc/config.php:315 inc/view-postschedule.php:39
+msgid "Minimum interval between shares"
+msgstr "Intervalo mínimo entre comparticiones"
+
+#: inc/config.php:303
+msgid "Check if you want to add the post featured image to the share"
+msgstr "Comprueba si quieres agregar la imagen destacada del artículo en la compartición"
+
+#: inc/config.php:299
+msgid "Post with Image"
+msgstr "Publicar con imagen"
+
+#: inc/config.php:291
+msgid "Fetch hashtags from specified custom field"
+msgstr "Recuperar hashtags desde el campo personalizado especificado"
+
+#: inc/config.php:287
+msgid "Hashtag Custom Field"
+msgstr "Campo personalizado del hashtag"
+
+#: inc/config.php:280
+msgid "Set to 0 (characters) to include all."
+msgstr "Establece este valor a 0 (caracteres) para incluir todos."
+
+#: inc/config.php:276
+msgid "Maximum Hashtags Length"
+msgstr "Longitud máxima de los hashtags"
+
+#: inc/config.php:269
+msgid "Specify which hashtags you want to be used. eg. #example, #example2"
+msgstr "Especifica los hashtags que deseas utilizar. Por ejemplo. #ejemplo, #ejemplo2"
+
+#: inc/config.php:265
+msgid "Common Hashtags"
+msgstr "Hashtags comunes"
+
+#: inc/config.php:252
+msgid "Create hashtags from Custom Fields"
+msgstr "Crear hashtags a partir de campos personalizados"
+
+#: inc/config.php:251
+msgid "Create hashtags from Tags"
+msgstr "Crear hashtags a partir de etiquetas"
+
+#: inc/config.php:250
+msgid "Create hashtags from Categories"
+msgstr "Crear hashtags a partir de categorías"
+
+#: inc/config.php:249
+msgid "Common hashtags for all shares"
+msgstr "Hashtags comunes para todos los compartidos"
+
+#: inc/config.php:248
+msgid "Don't add any hashtags"
+msgstr "No añadir ningún hashtag"
+
+#: inc/config.php:246
+msgid "Include #hashtags in your auto posts?"
+msgstr "¿Incluir #hashtags en tus publicaciones automáticas?"
+
+#: inc/config.php:242
+msgid "Hashtags"
+msgstr "Etiquetas"
+
+#: inc/config.php:201
+msgid "Bitly User"
+msgstr "Usuario Bitly"
+
+#: inc/config.php:190
+msgid "Bitly Key"
+msgstr "Clave Bitly"
+
+#: inc/config.php:172
+msgid "bit.ly"
+msgstr "bit.ly"
+
+#: inc/config.php:171
+msgid "is.gd"
+msgstr "is.gd"
+
+#: inc/config.php:170
+msgid "wp short url"
+msgstr "url corta de wp"
+
+#: inc/config.php:167
+msgid "Shorten the link to your post."
+msgstr "Acortar el enlace a tu publicación."
+
+#: inc/config.php:163
+msgid "URL Shortner Service"
+msgstr "Servicio acortador de URL"
+
+#: inc/config.php:147
+msgid "Use URL Shortner"
+msgstr "Utilizar acortador de URL"
+
+#: inc/config.php:140
+msgid "URL will be fetched from the specified custom field."
+msgstr "La URL se tomará del campo personalizado especificado."
+
+#: inc/config.php:136
+msgid "URL Custom Field"
+msgstr "Campo personalizado de URL"
+
+#: inc/config.php:125
+msgid "URL will be fetched from a custom field."
+msgstr "La URL se obtendrá de un campo personalizado."
+
+#: inc/config.php:121
+msgid "Fetch URL From Custom Field"
+msgstr "Tomar URL del campo personalizado"
+
+#: inc/config.php:108
+msgid "No"
+msgstr "No"
+
+#: inc/config.php:107
+msgid "Yes"
+msgstr "Sí"
+
+#: inc/config.php:105
+msgid "Include a link to your post?"
+msgstr "¿Incluir un enlace a tu entrada?"
+
+#: inc/config.php:101
+msgid "Include Link"
+msgstr "Incluir enlace"
+
+#: inc/config.php:94
+msgid "End of Post"
+msgstr "Fin de la publicación"
+
+#: inc/config.php:93
+msgid "Beginning of Post"
+msgstr "Principio de la publicación"
+
+#: inc/config.php:91
+msgid "Where do you want the text to be added?"
+msgstr "¿Dónde quieres que se añada el texto?"
+
+#: inc/config.php:87
+msgid "Additional Text At"
+msgstr "Texto adicional en"
+
+#: inc/config.php:80
+msgid "Text added to your auto posts"
+msgstr "Texto añadido a tus publicaciones automáticas"
+
+#: inc/config.php:76
+msgid "Additional Text"
+msgstr "Texto adicional"
+
+#: inc/config.php:69
+msgid "Which custom field do you want to fetch info from?"
+msgstr "¿De qué campo personalizado deseas tomar la información?"
+
+#: inc/config.php:65
+msgid "Post Content Custom Field"
+msgstr "Publicar campo de contenido personalizado"
+
+#: inc/config.php:58
+msgid "The length of the tweet"
+msgstr "Longitud del tuit"
+
+#: inc/config.php:54
+msgid "Length"
+msgstr "Longitud"
+
+#: inc/config.php:48
+msgid "Custom Field"
+msgstr "Campo personalizado"
+
+#: inc/config.php:47
+msgid "Title & Body"
+msgstr "Título y Cuerpo"
+
+#: inc/config.php:46
+msgid "Body Only"
+msgstr "Solo cuerpo"
+
+#: inc/config.php:45
+msgid "Title Only"
+msgstr "Solo Título"
+
+#: inc/config.php:43
+msgid "What do you want to share?"
+msgstr "¿Qué es lo que deseas compartir?"
+
+#: inc/config.php:39
+msgid "Post Content"
+msgstr "Publicar contenido "
+
+#: inc/config.php:31
+msgid "BUSINESS version"
+msgstr "Versión BUSINESS"
+
+#: inc/config.php:30
+msgid "PRO version"
+msgstr "versión PRO"
+
+#: inc/config.php:30 inc/config.php:31
+msgid "This is only available in the"
+msgstr "Solo está disponible en la"
