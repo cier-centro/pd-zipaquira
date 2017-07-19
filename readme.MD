@@ -26,6 +26,8 @@ cd pd-zipaquira
 wp core config --dbname=NOMBRE_DE_LA_BASE_DE_DATOS --user=USUARIO_DE_LA_BASE_DE_DATOS
 ```
 
+Por lo general el usuario de la base de datos es root, de cualquier forma es conveniente verificar.
+
 5. Para restaurar el sitio se corre el comando 
 
 ```bash
