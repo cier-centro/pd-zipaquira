@@ -17,7 +17,7 @@ Las carpetas en las que están los ejecutables de git.exe, mysql.exe y ep-cli.ex
 git clone https://github.com/cier-centro/pd-zipaquira.git
 ```
 
-3. Se descarga [versionpress] y se copia dentro del repositorio en la carpeta ```wp-content/plugins/```
+3. Se descarga [versionpress 3.0.2](https://versionpress.net/) y se copia dentro del repositorio en la carpeta ```wp-content/plugins/```
 
 4. Para crear el archivo ```wp-config.php``` automáticamente se corre el comando
 
