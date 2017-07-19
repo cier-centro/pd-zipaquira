@@ -1,6 +1,9 @@
 ## Prerequisitos
 Se debe instalar [wp-cli](http://wp-cli.org/)
 
+#### Alternativa de instalación de wp-cli para windows
+Es posible instalarlo sin usar curl o wget siguiendo [estas instrucciones](https://make.wordpress.org/cli/handbook/installing/#installing-on-windows)
+
 ### Prerrequisitos adicionales en Windows
 Las carpetas en las que están los ejecutables de git.exe, mysql.exe y ep-cli.exe deben agregarse al path 
 
