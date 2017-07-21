@@ -19,7 +19,7 @@ function wcl_wpcontentlayout(){
     add_submenu_page('layout', 'Setting', 'Setting', 'manage_options', 'layout' );
     add_submenu_page('layout', 'Add Layout', 'Add Layout', 'manage_options',__FILE__, 'wcl_wpcontentlayout_add_layout' );
 
-mysql_query("CREATE TABLE IF NOT EXISTS $table_name (
+mysqli_query("CREATE TABLE IF NOT EXISTS $table_name (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `title` varchar(200) COLLATE utf8_unicode_ci NOT NULL,
   `content1` longtext COLLATE utf8_unicode_ci NOT NULL,
