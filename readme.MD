@@ -23,7 +23,7 @@ git clone https://github.com/cier-centro/pd-zipaquira.git
 
 ```bash
 cd pd-zipaquira
-wp core config --dbname=NOMBRE_DE_LA_BASE_DE_DATOS --user=USUARIO_DE_LA_BASE_DE_DATOS
+wp core config --dbname=NOMBRE_DE_LA_BASE_DE_DATOS --dbuser=USUARIO_DE_LA_BASE_DE_DATOS --dbpass=PASSWORD_USUARIO
 ```
 
 Por lo general el usuario de la base de datos es root, de cualquier forma es conveniente verificar.
@@ -33,3 +33,4 @@ Por lo general el usuario de la base de datos es root, de cualquier forma es con
 ```bash
 wp vp restore-site --siteurl=http://localhost/pd-zipaquira --require=wp-content/plugins/versionpress/src/Cli/vp.php
 ```
+Para la linea anterior se recomienda usar el dominio o la ip registrada
