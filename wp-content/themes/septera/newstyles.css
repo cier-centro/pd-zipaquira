@@ -1,0 +1,3 @@
+body:not(.septera-landing-page) .main, #lp-posts, #lp-page, .searchform {
+    background-color: black !important;
+}
