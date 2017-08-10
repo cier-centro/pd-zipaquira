@@ -1,3 +1,10 @@
 body:not(.septera-landing-page) .main, #lp-posts, #lp-page, .searchform {
     background-color: black !important;
 }
+
+#header-widget-area {
+    margin-left: 15.5%;
+    /* margin-right: 44%; */
+    width: 79.5%;
+    top: 10px;
+}
