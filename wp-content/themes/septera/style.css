@@ -4226,7 +4226,7 @@ body.mobile .main {min-height:0;}
 	}
 
 	.cryout #header-image-main {
-		margin-top: 160px;
+		margin-top: 0px;
 	}
 
 	#breadcrumbs-container.cryout[class*="three-"] #breadcrumbs {
