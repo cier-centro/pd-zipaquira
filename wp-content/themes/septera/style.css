@@ -669,6 +669,7 @@ a#logo > img {
 	overflow: hidden;
 }
 
+
 .septera-responsive-headerimage #masthead div.header-image {
 	display: none;
 }
@@ -4225,7 +4226,7 @@ body.mobile .main {min-height:0;}
 	}
 
 	.cryout #header-image-main {
-		margin-top: 165px;
+		margin-top: 160px;
 	}
 
 	#breadcrumbs-container.cryout[class*="three-"] #breadcrumbs {
