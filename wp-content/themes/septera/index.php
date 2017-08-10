@@ -13,6 +13,7 @@ get_header();
 ?>
 <div id="container" class="<?php echo septera_get_layout_class(); ?>">
 	<main id="main" role="main" class="main">
+		<div class="container"></div>
 		<?php cryout_before_content_hook(); ?>
 
 		<?php if ( have_posts() ) : ?>
@@ -35,6 +36,6 @@ get_header();
 
 	<?php septera_get_sidebar(); ?>
 </div><!-- #container -->
-
+</
 <?php
 get_footer();
