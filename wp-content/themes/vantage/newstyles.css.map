@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA;;;EAGE;ACHF;;;EAGE;AAEA,aAAI;EACF,UAAU,EAAE,KAAK;EAEjB,6EAAkD;IAChD,OAAO,EAAE,IAAI",
+"sources": ["scss/_variables.scss","scss/_header.scss"],
+"names": [],
+"file": "newstyles.css"
+}

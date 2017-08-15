@@ -1,0 +1,2 @@
+cd C:\xampp\htdocs\pd-zipaquira\wp-content\themes\vantage
+sass --watch scss/newstyles.scss:newstyles.css

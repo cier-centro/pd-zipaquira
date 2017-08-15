@@ -1,0 +1,13 @@
+/**
+* Header
+* --------------------------------------------------
+*/
+#masthead {
+  nav {
+    background: white;
+
+    #search-icon, #menu-header li a .menu-image-title {
+      display: none;
+    }
+  }
+}

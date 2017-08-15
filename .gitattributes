@@ -1,2 +1,3 @@
 wp-content/vpdb/**/*.ini merge=vp-ini
 wp-content/vpdb/**/*.ini merge=vp-ini
+wp-content/vpdb/**/*.ini merge=vp-ini

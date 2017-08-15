@@ -1,0 +1,14 @@
+/**
+* Variables
+* --------------------------------------------------
+*/
+/**
+* Header
+* --------------------------------------------------
+*/
+#masthead nav {
+  background: white; }
+  #masthead nav #search-icon, #masthead nav #menu-header li a .menu-image-title {
+    display: none; }
+
+/*# sourceMappingURL=newstyles.css.map */

@@ -627,3 +627,9 @@ function vantage_recommended_plugins(){
 	tgmpa( $plugins, $config );
 }
 add_action( 'tgmpa_register', 'vantage_recommended_plugins' );
+
+function theme_scripts() {
+	wp_enqueue_style('newstyles', get_template_directory_uri() . '/newstyles.css');
+}
+
+add_action('wp_enqueue_scripts','theme_scripts');
